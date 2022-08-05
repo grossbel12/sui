@@ -273,3 +273,7 @@ state of the chain from genesis.
 
 Please see our [privacy policy](https://sui.io/policy/) to learn how we handle
 information about our nodes.
+
+## Typical issues
+For instans error 98/99
+If you see this eroor just restar  your server shutdown -r now and then will run node again  $ cd sui      $ cargo run --release --bin sui-node -- --config-path fullnode.yaml
