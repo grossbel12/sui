@@ -1,7 +1,7 @@
 ---
 title: Run a Sui Fullnode
 ---
-1
+
 
 We welcome you to run your own Sui fullnode! Sui fullnodes run a service that
 stores the full blockchain state and history. They service reads, either for
