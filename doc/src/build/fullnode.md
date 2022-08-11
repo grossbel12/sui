@@ -259,7 +259,8 @@ information about our nodes.
 After redeploying Devnet without genesis update. Constantly there is a problem and errors, after which the node is killed. Look at the screenshot
 ![error after devnet updt](https://user-images.githubusercontent.com/86624298/184237312-4af31e15-c939-47e9-8055-535bee579dba.png)
 Solution:
-1. Delete suidb folder ```shell
+1. Delete suidb folder 
+    ```shell
     $ rm -rf ~/sui/suidb
     ```
 1. `cd` into your `sui` repository:
